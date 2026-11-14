@@ -1,6 +1,7 @@
 using LibVLCSharp.Shared;
 using Microsoft.Win32;
 using System.Collections.ObjectModel;
+using System.IO;
 using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Windows;
