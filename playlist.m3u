@@ -139,13 +139,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 group-title="NEWS",Alhurra
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 group-title="NEWS",Cheddar
+#EXTINF:-1 group-title="BUSINESS",Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",Fox Weather
+#EXTINF:-1 group-title="WEATHER",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="NEWS",AccuWeather Now
+#EXTINF:-1 group-title="WEATHER",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",WeatherNation
+#EXTINF:-1 group-title="WEATHER",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 group-title="NEWS",America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
@@ -179,17 +179,17 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 
 # --- ENTERTAINMENT ---
-#EXTINF:-1 tvg-id="ATNMusic.bd@SD" group-title="ENTERTAINMENT",ATN Music
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" group-title="MUSIC",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Boni Records Music Channel
+#EXTINF:-1 group-title="MUSIC",Boni Records Music Channel
 http://media.boni-records.com/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",DELUXE MUSIC
+#EXTINF:-1 group-title="MUSIC",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",DELUXE MUSIC DANCE BY KONTOR
+#EXTINF:-1 group-title="MUSIC",DELUXE MUSIC DANCE BY KONTOR
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",DELUXE MUSIC RAP
+#EXTINF:-1 group-title="MUSIC",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",SCHLAGER DELUXE
+#EXTINF:-1 group-title="MUSIC",SCHLAGER DELUXE
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
@@ -197,11 +197,11 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",Court TV
+#EXTINF:-1 group-title="COURT & CRIME",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="BUSINESS",Biz TV
 https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Rev'n
+#EXTINF:-1 group-title="AUTOMOTIVE",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 group-title="FOOD & LIFESTYLE",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -215,7 +215,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
-#EXTINF:-1 group-title="NEWS",Al Arabiya Business
+#EXTINF:-1 group-title="BUSINESS",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
@@ -223,13 +223,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfef
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC Bollywood
+#EXTINF:-1 group-title="INDIAN",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Wanasah
+#EXTINF:-1 group-title="MUSIC",Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Baynounah TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
@@ -243,7 +243,7 @@ http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",ARTE Ⓖ
+#EXTINF:-1 group-title="DOCUMENTARY",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",ONE Ⓖ
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
@@ -283,7 +283,7 @@ https://i.mjh.nz/.r/10peach-nsw.m3u8
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",10 Shake
 https://i.mjh.nz/.r/10shake-nsw.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TVSN
+#EXTINF:-1 group-title="SHOPPING",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
