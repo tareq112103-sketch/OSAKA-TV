@@ -1,10 +1,11 @@
 #EXTM3U
 
-# OSAKA TV playlist reorganized into the requested category order (2026-11-14).
-# Categories: BANGLADESHI, SPORTS, NEWS, ENTERTAINMENT, EDUCATION, DISCOVERY, NATIONAL GEOGRAPHIC, HOLLYWOOD, PAKISTANI, INDIAN, KIDS.
-# NATIONAL GEOGRAPHIC and HOLLYWOOD are reserved categories; no existing stream was relabelled as either without a suitable channel.
-# Only publicly accessible streams already present in the repository were retained; stream availability and regional restrictions can change.
-# Backup entries are retained as separate entries for the same channel.
+# OSAKA TV — Tareq's picks, rebuilt 2026-11-14.
+# Order: Bangladeshi, Sports, International News, Indian Bangla, Hindi & Urdu News, Movies & Entertainment,
+# Kids, Islamic, Documentary/Nature/History, Music, then a short Arabic/German/French selection.
+# Geo-blocked (Ⓖ) channels were dropped because they rarely play from Bangladesh.
+# Bangladesh streams: https://github.com/iptv-org/iptv/tree/master/streams — links change often; "(backup)" = second link.
+# Official BTV live player (web page, not a stream): https://www.btvlive.gov.bd/
 
 # --- BANGLADESHI ---
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" group-title="BANGLADESHI",Ananda TV
@@ -67,8 +68,6 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 group-title="SPORTS",EDGESport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Esport3
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 group-title="SPORTS",FIFA+ English
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",FIFA+ Women
@@ -94,91 +93,150 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="SPORTS",World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
-# --- NEWS ---
-#EXTINF:-1 group-title="NEWS",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 group-title="NEWS",Al Jazeera English
+# --- INTERNATIONAL NEWS ---
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="NEWS",ABC News Live
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-#EXTINF:-1 group-title="NEWS",NHK World-Japan
-https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 group-title="NEWS",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",ABC News Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="NEWS",CNA International
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",CNA International
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",France 24 English
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",France 24 English
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 group-title="NEWS",Euronews English
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",NHK World-Japan
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",CBS News
-https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="NEWS",NBC News Now
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 group-title="NEWS",Reuters TV
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",Reuters TV
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",VOA TV Africa
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",CGTN
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",NBC News Now
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="NEWS",France 24 Arabic
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="NEWS",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="NEWS",DW Arabic
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-#EXTINF:-1 group-title="NEWS",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 group-title="NEWS",VOA Persian
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 group-title="NEWS",Alhurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 group-title="BUSINESS",Cheddar
-https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-#EXTINF:-1 group-title="WEATHER",Fox Weather
-https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 group-title="WEATHER",AccuWeather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 group-title="WEATHER",WeatherNation
-https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 group-title="NEWS",America's Voice
-https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:-1 group-title="NEWS",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="NEWS",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="NEWS",Phoenix Ⓖ
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="NEWS",Tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 group-title="NEWS",Welt
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-#EXTINF:-1 group-title="NEWS",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="NEWS",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 group-title="NEWS",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="NEWS",Global News
-https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
-#EXTINF:-1 group-title="NEWS",Global News Saskatoon
-https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
-#EXTINF:-1 group-title="NEWS",Global News Winnipeg
-https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
-#EXTINF:-1 group-title="NEWS",CPAC (EN)
-https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 group-title="NEWS",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 group-title="NEWS",ABC
-https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL NEWS",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
-# --- ENTERTAINMENT ---
+# --- INDIAN BANGLA ---
+#EXTINF:-1 group-title="INDIAN BANGLA",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" group-title="INDIAN BANGLA",DD Bangla
+https://cdn.pishow.tv/ott/live/37/master.m3u8
+#EXTINF:-1 tvg-id="RongeenTV.in@SD" group-title="INDIAN BANGLA",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="INDIAN BANGLA",Khushboo Bangla
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="INDIAN BANGLA",Sangeet Bangla
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
+
+# --- HINDI & URDU NEWS ---
+#EXTINF:-1 group-title="HINDI & URDU NEWS",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",News18 India Ⓨ
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 group-title="HINDI & URDU NEWS",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+# --- MOVIES & ENTERTAINMENT ---
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="MOVIES & ENTERTAINMENT",DD National HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/15/master.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT",Rev'n
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+
+# --- KIDS ---
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" group-title="KIDS",Duronto TV
+https://box.bbaria.net/DurontoTV/index.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" group-title="KIDS",Duronto TV (backup)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd@SD" group-title="KIDS",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 group-title="KIDS",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 group-title="KIDS",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 group-title="KIDS",ABC Me
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 group-title="KIDS",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 group-title="KIDS",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+# --- ISLAMIC ---
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd@SD" group-title="ISLAMIC",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" group-title="ISLAMIC",Madani Channel English
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" group-title="ISLAMIC",Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+
+# --- DOCUMENTARY, NATURE & HISTORY ---
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" group-title="DOCUMENTARY, NATURE & HISTORY",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Smithsonian Channel
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-id="HistoryHit.uk@SD" group-title="DOCUMENTARY, NATURE & HISTORY",History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CuriosityNOW.de@EN" group-title="DOCUMENTARY, NATURE & HISTORY",Curiosity NOW
+https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" group-title="DOCUMENTARY, NATURE & HISTORY",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBayTV.in@SD" group-title="DOCUMENTARY, NATURE & HISTORY",DocuBay TV
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="DOCUMENTARY, NATURE & HISTORY",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" group-title="DOCUMENTARY, NATURE & HISTORY",Terra Mater WILD
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@SD" group-title="DOCUMENTARY, NATURE & HISTORY",NatureTime
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD" group-title="DOCUMENTARY, NATURE & HISTORY",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveThePlanet.es@EN" group-title="DOCUMENTARY, NATURE & HISTORY",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" group-title="DOCUMENTARY, NATURE & HISTORY",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY, NATURE & HISTORY",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+# --- MUSIC ---
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" group-title="MUSIC",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",Boni Records Music Channel
@@ -189,220 +247,23 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 group-title="MUSIC",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="MUSIC",SCHLAGER DELUXE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Retro TV
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Heartland
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Drybar Comedy
-https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="COURT & CRIME",Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 group-title="BUSINESS",Biz TV
-https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
-#EXTINF:-1 group-title="AUTOMOTIVE",Rev'n
-https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
-#EXTINF:-1 group-title="FOOD & LIFESTYLE",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="FOOD & LIFESTYLE",BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="ENTERTAINMENT",Stryk TV
-https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-#EXTINF:-1 group-title="NEWS",FOX Live Now
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Botflix TV
-https://hls.botflix.tv/tv/index.m3u8
-#EXTINF:-1 group-title="BUSINESS",Al Arabiya Business
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC 1
+
+# --- WORLD NEWS (ARABIC / GERMAN / FRENCH) ---
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",Welt
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 group-title="WORLD NEWS (ARABIC / GERMAN / FRENCH)",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+
+# --- ARABIC ENTERTAINMENT ---
+#EXTINF:-1 group-title="ARABIC ENTERTAINMENT",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC 5
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 group-title="INDIAN",MBC Bollywood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC Drama
+#EXTINF:-1 group-title="ARABIC ENTERTAINMENT",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MBC Persia
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 group-title="MUSIC",Wanasah
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Baynounah TV
-https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Ajman TV
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Al Aan TV
-https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Abu Dhabi TV
-http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Das Erste Ⓖ
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",ZDF Ⓖ
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",ARTE Ⓖ
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",ONE Ⓖ
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",ZDFneo Ⓖ
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",BR Nord Ⓖ
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",BR Süd Ⓖ
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",HR Ⓖ
-https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",MDR Sachsen Ⓖ
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Handicap TV
-https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 group-title="GENERAL ENTERTAINMENT",Air Connect TV
-https://tv.airconnectradio.com/live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TV5 Monde FBS
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TV5 Monde Europe
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",CBC Toronto Ⓖ
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",ICI Télé HD Ⓖ
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",10 HD
-https://i.mjh.nz/.r/10-nsw.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",SBS Ⓖ
-https://i.mjh.nz/.r/sbs-sbst.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Seven
-https://i.mjh.nz/.r/seven-syd.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Nine
-https://i.mjh.nz/.r/channel-9-nsw.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",10 Peach
-https://i.mjh.nz/.r/10peach-nsw.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",10 Bold
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",10 Shake
-https://i.mjh.nz/.r/10shake-nsw.m3u8
-#EXTINF:-1 group-title="SHOPPING",TVSN
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",M4TV
-https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",SBS Viceland Ⓖ
-https://i.mjh.nz/.r/sbs-2syd.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",SBS World Movies Ⓖ
-https://i.mjh.nz/.r/sbs-4syd.m3u8
-
-# --- EDUCATION ---
-#EXTINF:-1 tvg-id="MadaniChannelBangla.bd@SD" group-title="EDUCATION",Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" group-title="EDUCATION",Madani Channel English
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 group-title="EDUCATION",Canal Educação
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="EDUCATION",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="EDUCATION",DLTV 1
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 group-title="EDUCATION",DLTV 2
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 group-title="EDUCATION",DLTV 3
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 group-title="EDUCATION",World Channel
-https://world.lls.pbs.org/index.m3u8
-
-# --- DISCOVERY ---
-#EXTINF:-1 group-title="DISCOVERY",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="DISCOVERY",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="DISCOVERY",CGTN Documentary English Ⓢ
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="DISCOVERY",RT Documentary English Ⓖ
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Peer TV South Tyrol
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 group-title="DISCOVERY",3sat Ⓖ
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 group-title="DISCOVERY",ARD-alpha Ⓖ
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 group-title="DISCOVERY",ZDFinfo Ⓖ
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-
-
-# Additional free ad-supported factual/documentary streams. Availability may vary by region.
-#EXTINF:-1 group-title="DISCOVERY",Earth Touch TV
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="DISCOVERY",Alien Nation by DUST
-https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
-
-# --- HISTORY ---
-# True History is a free ad-supported factual channel; this is not the paid HISTORY (A+E) network.
-#EXTINF:-1 group-title="HISTORY",True History
-https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
-
-# --- PAKISTANI ---
-#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" group-title="PAKISTANI",Madani Channel Urdu
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:-1 group-title="PAKISTANI",Dunya News
-https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-
-# --- INDIAN ---
-#EXTINF:-1 group-title="INDIAN",ABP Ananda
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in@SD" group-title="INDIAN",DD Bangla
-https://cdn.pishow.tv/ott/live/37/master.m3u8
-#EXTINF:-1 tvg-id="RongeenTV.in@SD" group-title="INDIAN",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="INDIAN",Khushboo Bangla
-https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="INDIAN",Sangeet Bangla
-https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="INDIAN",DD National HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/15/master.m3u8
-#EXTINF:-1 group-title="INDIAN",Aaj Tak
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 group-title="INDIAN",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="INDIAN",ABP News
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 group-title="INDIAN",TV9 Kannada
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN",TV9 Telugu
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN",TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN",NDTV Profit
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 group-title="INDIAN",News18 India Ⓨ
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="INDIAN",CNN-News18
-https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 group-title="INDIAN",News18 Kannada
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
-
-# --- KIDS ---
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD" group-title="KIDS",Duronto TV
-https://box.bbaria.net/DurontoTV/index.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd@SD" group-title="KIDS",Duronto TV (backup)
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd@SD" group-title="KIDS",Nexus TV
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 group-title="KIDS",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 group-title="KIDS",ABC Me
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="KIDS",Cartoon Network Arabic
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 group-title="KIDS",KiKa Ⓖ
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 group-title="KIDS",MBC 3
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 group-title="KIDS",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
