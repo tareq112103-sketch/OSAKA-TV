@@ -336,7 +336,7 @@ fun ModernSettingsIcon(modifier: Modifier = Modifier) {
 
 // --- OSAKA TV BRAND + GLASS PILL NAVIGATION ---
 @Composable
-fun RetroTvMark(modifier: Modifier = Modifier) {
+fun OsakaTvMark(modifier: Modifier = Modifier) {
     Canvas(modifier = modifier) {
         val u = size.minDimension / 100f
         // Match the launcher icon: red TV shell, white screen and red play mark.
@@ -357,7 +357,7 @@ fun RetroTvMark(modifier: Modifier = Modifier) {
 }
 
 @Composable
-private fun RetroTopTab(
+private fun OsakaTopTab(
     label: String,
     selected: Boolean,
     focusRequester: FocusRequester? = null,
@@ -394,7 +394,7 @@ private fun RetroTopTab(
 }
 
 @Composable
-private fun RetroTopAction(
+private fun OsakaTopAction(
     onClick: () -> Unit,
     icon: @Composable () -> Unit
 ) {
@@ -431,7 +431,7 @@ fun OttTopHeader(
         val compact = maxWidth < 600.dp
         val brand: @Composable () -> Unit = {
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                RetroTvMark(Modifier.size(if (compact) 30.dp else 36.dp))
+                OsakaTvMark(Modifier.size(if (compact) 30.dp else 36.dp))
                 Text("OSAKA", color = Color.White, fontWeight = FontWeight.Black, fontSize = if (compact) 17.sp else 20.sp, letterSpacing = 1.5.sp)
                 Text("TV", color = Color.White, fontWeight = FontWeight.Black, fontSize = if (compact) 17.sp else 20.sp, letterSpacing = 1.sp)
             }
@@ -444,7 +444,7 @@ fun OttTopHeader(
             ) {
                 listOf("HOME" to "Home", "FAVOURITES" to "Favourites", "REGION" to "Region", "TOPIC" to "Topic").forEach { (tab, label) ->
                     val selected = currentTab == tab
-                    RetroTopTab(
+                    OsakaTopTab(
                         label = label,
                         selected = selected,
                         focusRequester = if (tab == "HOME") initialFocusRequester else null,
@@ -455,8 +455,8 @@ fun OttTopHeader(
         }
         val actions: @Composable () -> Unit = {
             Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
-                RetroTopAction(onOpenSearch) { ModernSearchIcon(Modifier.fillMaxSize()) }
-                RetroTopAction(onOpenSettings) { ModernSettingsIcon(Modifier.fillMaxSize()) }
+                OsakaTopAction(onOpenSearch) { ModernSearchIcon(Modifier.fillMaxSize()) }
+                OsakaTopAction(onOpenSettings) { ModernSettingsIcon(Modifier.fillMaxSize()) }
             }
         }
         if (compact) {
@@ -1651,7 +1651,7 @@ class MainActivity : ComponentActivity() {
                             horizontalAlignment = Alignment.CenterHorizontally,
                             verticalArrangement = Arrangement.Center
                         ) {
-                            RetroTvMark(Modifier.size(150.dp).graphicsLayer { scaleX = pulse; scaleY = pulse })
+                            OsakaTvMark(Modifier.size(150.dp).graphicsLayer { scaleX = pulse; scaleY = pulse })
                         }
                     }
                 }
