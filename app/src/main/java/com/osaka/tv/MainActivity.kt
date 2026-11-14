@@ -266,7 +266,7 @@ fun RemoteChannelLogo(url: String?, channelTitle: String, modifier: Modifier = M
     }
 }
 
-// --- RETRO CRT SHUTDOWN ANIMATION ---
+// --- OSAKA TV EXIT ANIMATION ---
 @Composable
 fun CrtTvExitEffect(
     isExiting: Boolean,
@@ -432,7 +432,7 @@ fun OttTopHeader(
         val brand: @Composable () -> Unit = {
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 RetroTvMark(Modifier.size(if (compact) 30.dp else 36.dp))
-                Text("RETRO", color = Color.White, fontWeight = FontWeight.Black, fontSize = if (compact) 17.sp else 20.sp, letterSpacing = 1.5.sp)
+                Text("OSAKA", color = Color.White, fontWeight = FontWeight.Black, fontSize = if (compact) 17.sp else 20.sp, letterSpacing = 1.5.sp)
                 Text("TV", color = Color.White, fontWeight = FontWeight.Black, fontSize = if (compact) 17.sp else 20.sp, letterSpacing = 1.sp)
             }
         }
@@ -1636,7 +1636,7 @@ class MainActivity : ComponentActivity() {
                         enter = fadeIn(tween(180)),
                         exit = fadeOut(tween(260))
                     ) {
-                        val transition = rememberInfiniteTransition(label = "retroSplash")
+                        val transition = rememberInfiniteTransition(label = "osakaSplash")
                         val pulse by transition.animateFloat(
                             initialValue = 0.92f,
                             targetValue = 1.04f,
@@ -1679,7 +1679,7 @@ class MainActivity : ComponentActivity() {
         lifecycleScope.launch {
             try {
                 val result = withContext(Dispatchers.IO) {
-                    val releaseConnection = (URL("https://api.github.com/repos/Kosimosi/Android-IPTV/releases/latest")
+                    val releaseConnection = (URL("https://api.github.com/repos/tareq112103-sketch/OSAKA-TV/releases/latest")
                         .openConnection() as HttpURLConnection).apply {
                         connectTimeout = 12000
                         readTimeout = 15000
