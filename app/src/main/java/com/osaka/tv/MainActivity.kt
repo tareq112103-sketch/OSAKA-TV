@@ -689,7 +689,12 @@ fun SearchModal(
     }
     val results = remember(query, channels) {
         if (query.isBlank()) emptyList()
-        else channels.filter { it.title.contains(query, ignoreCase = true) }
+        else channels.filter { channel ->
+            channel.title.contains(query, ignoreCase = true) ||
+                channel.group.contains(query, ignoreCase = true) ||
+                channel.language.contains(query, ignoreCase = true) ||
+                channel.country.contains(query, ignoreCase = true)
+        }
     }
 
     Box(
@@ -2149,10 +2154,20 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-        return list.groupBy { it.title.trim().lowercase(Locale.ROOT) }.values.map { variants ->
-            val primary = variants.first()
-            primary.copy(backupUrls = variants.map { it.url }.filter { it != primary.url }.distinct())
+        // Merge duplicate channel names without building the multiple intermediate maps
+        // produced by groupBy(). Keep the first entry as the primary stream and retain
+        // distinct alternatives as backups, preserving playlist order.
+        val merged = LinkedHashMap<String, Channel>(list.size)
+        for (channel in list) {
+            val key = channel.title.trim().lowercase(Locale.ROOT)
+            val existing = merged[key]
+            if (existing == null) {
+                merged[key] = channel
+            } else if (channel.url != existing.url && channel.url !in existing.backupUrls) {
+                merged[key] = existing.copy(backupUrls = existing.backupUrls + channel.url)
+            }
         }
+        return merged.values.toList()
     }
 
     private fun playChannel(index: Int) {
