@@ -1,10 +1,63 @@
 #EXTM3U
+# OSAKA TV - Bangladesh channels are listed first.
+# Bangladesh stream directory source: https://github.com/iptv-org/iptv/tree/master/streams
+# Community-maintained streams; availability, geo-access and rights may vary. Streams are not individually guaranteed.
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="BANGLADESH ENTERTAINMENT",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" group-title="BANGLADESH MUSIC",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="ChannelS.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd@SD" group-title="BANGLADESH NEWS",DBC News
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" group-title="BANGLADESH ENTERTAINMENT",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DurontoTV.bd@SD" group-title="BANGLADESH KIDS",Duronto TV
+https://box.bbaria.net/DurontoTV/index.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd@SD" group-title="BANGLADESH NEWS",Ekhon TV
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+#EXTINF:-1 tvg-id="EkusheyTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" group-title="BANGLADESH SPORTS",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GreenTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-id="MatribhumiTV.bd@HD" group-title="BANGLADESH ENTERTAINMENT",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd@SD" group-title="BANGLADESH MOVIES",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="MyTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NANTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",NAN TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD" group-title="BANGLADESH NEWS",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd@SD" group-title="BANGLADESH KIDS",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 tvg-id="NTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+#EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Rupashi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports.bd@SD" group-title="BANGLADESH SPORTS",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 tvg-id="VoktaTV.bd@SD" group-title="BANGLADESH ENTERTAINMENT",Vokta TV
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+#EXTINF:-1 tvg-id="StarNews.bd@SD" group-title="BANGLADESH NEWS",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
 
-# --- BANGLA ---
-# No direct official Bangladeshi HLS stream URL could be verified.
-# Official BTV live channels: https://www.btvlive.gov.bd/
-
-# --- NEWS / INTERNATIONAL ---
+# --- INTERNATIONAL CHANNELS ---
 #EXTINF:-1 group-title="ENGLISH NEWS",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="ENGLISH NEWS",Al Jazeera English
@@ -31,8 +84,6 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL NEWS",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-
-# --- FREE-TO-WATCH SPORTS ---
 #EXTINF:-1 group-title="SPORTS",Red Bull TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",FIFA+ English
@@ -45,14 +96,10 @@ https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-
-# --- WEATHER ---
 #EXTINF:-1 group-title="WEATHER",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 group-title="WEATHER",AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-
-# --- EDUCATION / KIDS ---
 #EXTINF:-1 group-title="KIDS",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="EDUCATION",ARD-alpha
@@ -69,7 +116,6 @@ https://cdn-live.dltv.ac.th/dltv02.m3u8
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-1 group-title="EDUCATION",World Channel
 https://world.lls.pbs.org/index.m3u8
-# --- BUSINESS / FINANCIAL NEWS ---
 #EXTINF:-1 group-title="BUSINESS NEWS",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS",CBS News
@@ -80,16 +126,12 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998400
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="BUSINESS NEWS",Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
-
-# --- SCIENCE / DOCUMENTARY ---
 #EXTINF:-1 group-title="SCIENCE",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="SCIENCE",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-
-# --- ENTERTAINMENT ---
 #EXTINF:-1 group-title="ENTERTAINMENT",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Heartland
@@ -100,38 +142,14 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-
-# --- MUSIC ---
 #EXTINF:-1 group-title="MUSIC",Boni Records Music Channel
 http://media.boni-records.com/index.m3u8
-
-# --- WEATHER ---
 #EXTINF:-1 group-title="WEATHER",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-
-# --- INDIA ---
-# Official Aaj Tak live feed; availability may be region-restricted.
 #EXTINF:-1 group-title="INDIAN",Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-
-# --- PAKISTAN ---
-# Dunya News international feed published on the broadcaster's own domain.
 #EXTINF:-1 group-title="PAKISTANI NEWS",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-
-# --- BANGLADESH ---
-# Official BTV live player (web page, not a direct M3U/HLS stream):
-# https://www.btvlive.gov.bd/
-# Official PTV News live portal (web page, not a direct M3U/HLS stream):
-# https://moib.gov.pk/LiveStream
-# --- HOLLYWOOD ---
-# Existing free entertainment/documentary channels include Retro TV and Docurama.
-# No additional Hollywood movie stream was added because a reliable, authorized
-# direct stream could not be verified.
-
-# --- ADDITIONAL FREE INTERNATIONAL NEWS ---
-
-# --- NEWS ---
 #EXTINF:-1 group-title="NEWS",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 group-title="NEWS",DW Español
@@ -144,8 +162,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 group-title="NEWS",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-
-# --- SPORTS ---
 #EXTINF:-1 group-title="SPORTS",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 group-title="SPORTS",Esport3
@@ -162,10 +178,6 @@ https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-# --- 90 ADDITIONAL FREE-TO-WATCH CHANNELS (curated from Free-TV/IPTV) ---
-# Source playlist: https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-# Free streams may be geo-restricted, change URLs, or become unavailable; inclusion is not a guarantee of access in Bangladesh.
 #EXTINF:-1 group-title="INDIAN",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="INDIAN",ABP News
