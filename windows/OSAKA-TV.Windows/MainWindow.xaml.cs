@@ -99,7 +99,7 @@ public partial class MainWindow : Window
 
     private static string? Attribute(string line, string name)
     {
-        var match = Regex.Match(line, $@"(?:^|\\s){Regex.Escape(name)}=""([^""]*)""", RegexOptions.IgnoreCase);
+        var match = Regex.Match(line, $@"(?:^|\s){Regex.Escape(name)}=""([^""]*)""", RegexOptions.IgnoreCase);
         return match.Success ? match.Groups[1].Value : null;
     }
 
@@ -178,8 +178,8 @@ public partial class MainWindow : Window
 
     private void Favourites_Click(object sender, RoutedEventArgs e)
     {
-        _showFavourites = true;
         CategoryList.SelectedIndex = -1;
+        _showFavourites = true;
         RefreshChannelList();
         StatusText.Text = "Showing your favourite channels";
     }
