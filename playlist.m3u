@@ -108,3 +108,23 @@ http://media.boni-records.com/index.m3u8
 # --- WEATHER ---
 #EXTINF:-1 group-title="WEATHER",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+# --- INDIA ---
+# Official Aaj Tak live feed; availability may be region-restricted.
+#EXTINF:-1 group-title="INDIAN",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+# --- PAKISTAN ---
+# Dunya News international feed published on the broadcaster's own domain.
+#EXTINF:-1 group-title="PAKISTANI NEWS",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+# --- BANGLADESH ---
+# Official BTV live player (web page, not a direct M3U/HLS stream):
+# https://www.btvlive.gov.bd/
+# Official PTV News live portal (web page, not a direct M3U/HLS stream):
+# https://moib.gov.pk/LiveStream
+# --- HOLLYWOOD ---
+# Existing free entertainment/documentary channels include Retro TV and Docurama.
+# No additional Hollywood movie stream was added because a reliable, authorized
+# direct stream could not be verified.
