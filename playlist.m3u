@@ -330,6 +330,22 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 group-title="DISCOVERY",ZDFinfo Ⓖ
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
+
+# Additional free ad-supported factual/documentary streams. Availability may vary by region.
+#EXTINF:-1 group-title="DISCOVERY",Earth Touch TV
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DISCOVERY",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="DISCOVERY",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="DISCOVERY",Alien Nation by DUST
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+
+# --- HISTORY ---
+# True History is a free ad-supported factual channel; this is not the paid HISTORY (A+E) network.
+#EXTINF:-1 group-title="HISTORY",True History
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+
 # --- PAKISTANI ---
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" group-title="PAKISTANI",Madani Channel Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
