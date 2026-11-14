@@ -8,8 +8,6 @@
 # --- BANGLADESHI ---
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" group-title="BANGLADESHI",Ananda TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd@SD" group-title="BANGLADESHI",Ananda TV (backup)
-http://103.99.249.139/anandatv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="BANGLADESHI",ATN Bangla
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" group-title="BANGLADESHI",Bangla Vision
