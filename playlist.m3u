@@ -69,3 +69,44 @@ https://cdn-live.dltv.ac.th/dltv02.m3u8
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-1 group-title="EDUCATION",World Channel
 https://world.lls.pbs.org/index.m3u8
+# --- BUSINESS / FINANCIAL NEWS ---
+#EXTINF:-1 group-title="BUSINESS NEWS",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS",NBC News Now
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 group-title="BUSINESS NEWS",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="BUSINESS NEWS",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+
+# --- SCIENCE / DOCUMENTARY ---
+#EXTINF:-1 group-title="SCIENCE",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="SCIENCE",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+# --- ENTERTAINMENT ---
+#EXTINF:-1 group-title="ENTERTAINMENT",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Heartland
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Drybar Comedy
+https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Buzzr
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+
+# --- MUSIC ---
+#EXTINF:-1 group-title="MUSIC",Boni Records Music Channel
+http://media.boni-records.com/index.m3u8
+
+# --- WEATHER ---
+#EXTINF:-1 group-title="WEATHER",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
