@@ -46,8 +46,8 @@ gradle wrapper --gradle-version 8.9
 APK: `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## GitHub Actions
-- Android: every push to `main` and manual workflow run builds the debug APK. Download **OSAKA-TV-debug-apk** from the Android workflow run's Artifacts section.
-- Windows: changes under `windows/` (or a manual workflow run) build a self-contained Windows x64 package. Download **OSAKA-TV-Windows-11-x64** from the Windows workflow run's Artifacts section.
+- **Android APK:** runs only when Android source/build files change (or when manually started). Open the [Android APK workflow](.github/workflows/android.yml) and download **OSAKA-TV-Android-APK** from its latest successful run.
+- **Windows 11:** runs only when files under `windows/` change (or when manually started). Download **OSAKA-TV-Windows-11-x64** from the Windows workflow run's Artifacts section.
 
 ## Updates
 This repository is the source of truth for OSAKA TV. Android sideloaded APK updates cannot install silently: users must approve installation. Release signing must use the same private keystore for every upgrade. Never commit keystores or passwords.
