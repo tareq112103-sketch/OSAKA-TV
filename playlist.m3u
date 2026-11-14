@@ -197,25 +197,25 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Court TV
+#EXTINF:-1 group-title="NEWS",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Biz TV
+#EXTINF:-1 group-title="BUSINESS",Biz TV
 https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC Food
+#EXTINF:-1 group-title="FOOD & LIFESTYLE",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="ENTERTAINMENT",BBC Home
+#EXTINF:-1 group-title="FOOD & LIFESTYLE",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="ENTERTAINMENT",Stryk TV
 https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",FOX Live Now
+#EXTINF:-1 group-title="NEWS",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Al Arabiya Business
+#EXTINF:-1 group-title="NEWS",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
@@ -259,7 +259,7 @@ https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",Air Connect TV
+#EXTINF:-1 group-title="GENERAL ENTERTAINMENT",Air Connect TV
 https://tv.airconnectradio.com/live.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TV5 Monde FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
