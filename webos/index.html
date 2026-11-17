@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>OSAKA TV</title><link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app">
+<header class="topbar"><div class="brand"><span class="brand-mark">▶</span><span>OSAKA <b>TV</b></span></div><div id="status">Loading playlist…</div></header>
+<main class="layout">
+<aside class="sidebar"><div class="section-label">BROWSE</div><nav id="categories" aria-label="Channel categories"></nav><div class="side-footer">OSAKA TV · webOS</div></aside>
+<section class="content">
+<div class="toolbar"><input id="search" type="text" placeholder="Search channels" aria-label="Search channels"><button id="refresh">↻ Refresh</button><button id="fav-filter">♡ Favourites</button></div>
+<div class="heading"><div><div class="eyebrow">LIVE TELEVISION</div><h1 id="current-category">All channels</h1></div><span id="channel-count"></span></div>
+<div id="channel-grid" class="channel-grid" role="list"></div>
+</section>
+<section id="player-panel" class="player-panel">
+<div class="player-head"><span id="now-playing">Select a channel</span><button id="close-player" aria-label="Close player">✕</button></div>
+<video id="video" controls autoplay playsinline></video>
+<div id="player-message">Choose a channel to start watching</div>
+</section>
+</main>
+<footer class="help">Use ▲ ▼ ◀ ▶ to navigate · OK to select · BACK to return</footer>
+</div>
+<script src="js/app.js"></script>
+</body></html>
