@@ -477,358 +477,361 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.
 https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="230" tvg-name="Dunya News" tvg-logo="" group-title="PAKISTANI",Dunya News
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+# --- KASHMIRI ---
+#EXTINF:-1 tvg-chno="231" tvg-id="DDKashir.in@SD" tvg-name="DD Kashir" tvg-logo="" tvg-country="IN" group-title="KASHMIRI",DD Kashir
+https://cdn.pishow.tv/ott/live/16/master.m3u8
 # --- INDIAN BANGLA ---
-#EXTINF:-1 tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" tvg-name="ABP Ananda" group-title="INDIAN BANGLA",ABP Ananda
+#EXTINF:-1 tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" tvg-name="ABP Ananda" group-title="INDIAN BANGLA",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-id="DDBangla.in@SD" tvg-name="DD Bangla" tvg-logo="" group-title="INDIAN BANGLA",DD Bangla
+#EXTINF:-1 tvg-chno="233" tvg-id="DDBangla.in@SD" tvg-name="DD Bangla" tvg-logo="" group-title="INDIAN BANGLA",DD Bangla
 https://cdn.pishow.tv/ott/live/37/master.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla" tvg-logo="" group-title="INDIAN BANGLA",Khushboo Bangla
+#EXTINF:-1 tvg-chno="234" tvg-id="KhushbooBangla.in@SD" tvg-name="Khushboo Bangla" tvg-logo="" group-title="INDIAN BANGLA",Khushboo Bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-id="RongeenTV.in@SD" tvg-name="Rongeen TV" tvg-logo="" group-title="INDIAN BANGLA",Rongeen TV
+#EXTINF:-1 tvg-chno="235" tvg-id="RongeenTV.in@SD" tvg-name="Rongeen TV" tvg-logo="" group-title="INDIAN BANGLA",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1 tvg-chno="235" tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="" group-title="INDIAN BANGLA",Sangeet Bangla
+#EXTINF:-1 tvg-chno="236" tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="" group-title="INDIAN BANGLA",Sangeet Bangla
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 # --- INDIAN HINDI ---
-#EXTINF:-1 tvg-chno="236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-name="Aaj Tak" group-title="INDIAN HINDI",Aaj Tak
+#EXTINF:-1 tvg-chno="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-name="Aaj Tak" group-title="INDIAN HINDI",Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-chno="237" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-name="ABP News" group-title="INDIAN HINDI",ABP News
+#EXTINF:-1 tvg-chno="238" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-name="ABP News" group-title="INDIAN HINDI",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-chno="238" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-name="CNN-News18" group-title="INDIAN HINDI",CNN-News18
+#EXTINF:-1 tvg-chno="239" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-name="CNN-News18" group-title="INDIAN HINDI",CNN-News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-chno="239" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-name="NDTV India" group-title="INDIAN HINDI",NDTV India
+#EXTINF:-1 tvg-chno="240" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-name="NDTV India" group-title="INDIAN HINDI",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-chno="240" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" tvg-name="NDTV Profit" group-title="INDIAN HINDI",NDTV Profit
+#EXTINF:-1 tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" tvg-name="NDTV Profit" group-title="INDIAN HINDI",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 tvg-chno="241" tvg-logo="https://i.imgur.com/BR4BUAw.png" tvg-name="News18 India Ⓨ" group-title="INDIAN HINDI",News18 India Ⓨ
+#EXTINF:-1 tvg-chno="242" tvg-logo="https://i.imgur.com/BR4BUAw.png" tvg-name="News18 India Ⓨ" group-title="INDIAN HINDI",News18 India Ⓨ
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-name="News18 Kannada" tvg-logo="https://i.imgur.com/CQUGLoK.png" tvg-id="News18.com" tvg-country="IN" group-title="INDIAN HINDI",News18 Kannada
+#EXTINF:-1 tvg-chno="243" tvg-name="News18 Kannada" tvg-logo="https://i.imgur.com/CQUGLoK.png" tvg-id="News18.com" tvg-country="IN" group-title="INDIAN HINDI",News18 Kannada
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-name="TV9 Kannada" tvg-logo="https://i.imgur.com/9rBgkxG.png" tvg-id="TV9Kannada.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Kannada
+#EXTINF:-1 tvg-chno="244" tvg-name="TV9 Kannada" tvg-logo="https://i.imgur.com/9rBgkxG.png" tvg-id="TV9Kannada.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-chno="244" tvg-name="TV9 Marathi" tvg-logo="https://i.imgur.com/k7urrIv.jpeg" tvg-id="TV9Marathi.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Marathi
+#EXTINF:-1 tvg-chno="245" tvg-name="TV9 Marathi" tvg-logo="https://i.imgur.com/k7urrIv.jpeg" tvg-id="TV9Marathi.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-name="TV9 Telugu" tvg-logo="https://i.imgur.com/oHAdC30.png" tvg-id="TV9Telugu.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Telugu
+#EXTINF:-1 tvg-chno="246" tvg-name="TV9 Telugu" tvg-logo="https://i.imgur.com/oHAdC30.png" tvg-id="TV9Telugu.in" tvg-country="IN" group-title="INDIAN HINDI",TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 # --- WORLD & REGIONAL TV ---
-#EXTINF:-1 tvg-chno="246" tvg-name="10 Bold" tvg-logo="https://i.imgur.com/2cq3fY1.png" tvg-id="10Bold.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Bold
+#EXTINF:-1 tvg-chno="247" tvg-name="10 Bold" tvg-logo="https://i.imgur.com/2cq3fY1.png" tvg-id="10Bold.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Bold
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 tvg-chno="247" tvg-name="10 HD" tvg-logo="https://i.imgur.com/ZjKvXPn.png" tvg-id="10Sydney.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 HD
+#EXTINF:-1 tvg-chno="248" tvg-name="10 HD" tvg-logo="https://i.imgur.com/ZjKvXPn.png" tvg-id="10Sydney.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 HD
 https://i.mjh.nz/.r/10-nsw.m3u8
-#EXTINF:-1 tvg-chno="248" tvg-name="10 Peach" tvg-logo="https://i.imgur.com/NlZLut8.png" tvg-id="10Peach.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Peach
+#EXTINF:-1 tvg-chno="249" tvg-name="10 Peach" tvg-logo="https://i.imgur.com/NlZLut8.png" tvg-id="10Peach.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Peach
 https://i.mjh.nz/.r/10peach-nsw.m3u8
-#EXTINF:-1 tvg-chno="249" tvg-name="10 Shake" tvg-logo="https://i.imgur.com/OXtIkOn.png" tvg-id="10Shake.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Shake
+#EXTINF:-1 tvg-chno="250" tvg-name="10 Shake" tvg-logo="https://i.imgur.com/OXtIkOn.png" tvg-id="10Shake.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",10 Shake
 https://i.mjh.nz/.r/10shake-nsw.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",24h
+#EXTINF:-1 tvg-chno="251" tvg-name="24h" tvg-logo="https://i.imgur.com/ZKR2jKr.png" tvg-id="24h.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-chno="251" tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" tvg-id="324.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",3/24
+#EXTINF:-1 tvg-chno="252" tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" tvg-id="324.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",3/24
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-chno="252" tvg-name="7flix" tvg-logo="https://i.imgur.com/6iIYCyC.png" tvg-id="7flix.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7flix
+#EXTINF:-1 tvg-chno="253" tvg-name="7flix" tvg-logo="https://i.imgur.com/6iIYCyC.png" tvg-id="7flix.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7flix
 https://i.mjh.nz/.r/7flix-syd.m3u8
-#EXTINF:-1 tvg-chno="253" tvg-name="7mate" tvg-logo="https://i.imgur.com/zpr12HP.png" tvg-id="7mate.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7mate
+#EXTINF:-1 tvg-chno="254" tvg-name="7mate" tvg-logo="https://i.imgur.com/zpr12HP.png" tvg-id="7mate.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7mate
 https://i.mjh.nz/.r/7mate-syd.m3u8
-#EXTINF:-1 tvg-chno="254" tvg-name="7two" tvg-logo="https://i.imgur.com/6pyIg02.png" tvg-id="7two.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7two
+#EXTINF:-1 tvg-chno="255" tvg-name="7two" tvg-logo="https://i.imgur.com/6pyIg02.png" tvg-id="7two.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",7two
 https://i.mjh.nz/.r/7two-syd.m3u8
-#EXTINF:-1 tvg-chno="255" tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" tvg-id="APunt.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",À Punt TV
+#EXTINF:-1 tvg-chno="256" tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" tvg-id="APunt.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",À Punt TV
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="256" tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",ABC
+#EXTINF:-1 tvg-chno="257" tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",ABC
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-chno="257" tvg-name="ADN Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" tvg-id="ADNNoticias.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",ADN Noticias
+#EXTINF:-1 tvg-chno="258" tvg-name="ADN Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" tvg-id="ADNNoticias.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",ADN Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-chno="258" tvg-name="Advocate Broadcasting Network" tvg-logo="https://i.imgur.com/eZrhTam.png" tvg-id="AdvocateBroadcastingNetwork.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Advocate Broadcasting Network
+#EXTINF:-1 tvg-chno="259" tvg-name="Advocate Broadcasting Network" tvg-logo="https://i.imgur.com/eZrhTam.png" tvg-id="AdvocateBroadcastingNetwork.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Advocate Broadcasting Network
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="259" tvg-name="Ajman TV" tvg-logo="https://pbs.twimg.com/profile_images/1085187553563561990/KRKuK_iW_400x400.jpg" tvg-id="AjmanTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Ajman TV
+#EXTINF:-1 tvg-chno="260" tvg-name="Ajman TV" tvg-logo="https://pbs.twimg.com/profile_images/1085187553563561990/KRKuK_iW_400x400.jpg" tvg-id="AjmanTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-name="Al Aan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png" tvg-id="AlAanTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Al Aan TV
+#EXTINF:-1 tvg-chno="261" tvg-name="Al Aan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png" tvg-id="AlAanTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Al Aan TV
 https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Araby TV
+#EXTINF:-1 tvg-chno="262" tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Ekhbariya
+#EXTINF:-1 tvg-chno="263" tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Rayyan
+#EXTINF:-1 tvg-chno="264" tvg-name="Al Rayyan" tvg-logo="https://i.imgur.com/Ts3RjTV.png" tvg-id="AlRayyanTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-name="Al Rayyan Old TV" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-id="AlRayyanOldTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Rayyan Old TV
+#EXTINF:-1 tvg-chno="265" tvg-name="Al Rayyan Old TV" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-id="AlRayyanOldTV.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Al Rayyan Old TV
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Saudiya
+#EXTINF:-1 tvg-chno="266" tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Saudiya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Saudiya Alaan
+#EXTINF:-1 tvg-chno="267" tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Al Wousta
+#EXTINF:-1 tvg-chno="268" tvg-name="Al Wousta" tvg-logo="https://i5.satexpat.com/cha/ae/al-wousta-95x90.gif" tvg-id="SharjahSports.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" tvg-id="AmericaTeVe.us" tvg-country="US" group-title="WORLD & REGIONAL TV",America TeVe
+#EXTINF:-1 tvg-chno="269" tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" tvg-id="AmericaTeVe.us" tvg-country="US" group-title="WORLD & REGIONAL TV",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-name="America's Voice" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" tvg-id="AmericasVoice.us" tvg-country="US" group-title="WORLD & REGIONAL TV",America's Voice
+#EXTINF:-1 tvg-chno="270" tvg-name="America's Voice" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" tvg-id="AmericasVoice.us" tvg-country="US" group-title="WORLD & REGIONAL TV",America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:-1 tvg-chno="270" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-id="ArirangWorld.kr" tvg-country="GB" group-title="WORLD & REGIONAL TV",Arirang World
+#EXTINF:-1 tvg-chno="271" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-id="ArirangWorld.kr" tvg-country="GB" group-title="WORLD & REGIONAL TV",Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-chno="271" tvg-name="Baynounah TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png" tvg-id="BaynounahTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Baynounah TV
+#EXTINF:-1 tvg-chno="272" tvg-name="Baynounah TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png" tvg-id="BaynounahTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Baynounah TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-chno="272" tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",BBC Asian Network
+#EXTINF:-1 tvg-chno="273" tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",BBC Asian Network
 https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
-#EXTINF:-1 tvg-chno="273" tvg-name="BeritaSatu" tvg-logo="https://imgur.com/vYJVT07" tvg-id="BeritaSatu.am" tvg-country="ID" group-title="WORLD & REGIONAL TV",BeritaSatu
+#EXTINF:-1 tvg-chno="274" tvg-name="BeritaSatu" tvg-logo="https://imgur.com/vYJVT07" tvg-id="BeritaSatu.am" tvg-country="ID" group-title="WORLD & REGIONAL TV",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/60px-Logo_BFM_TV_%282019%29.png" tvg-name="BFM TV" group-title="WORLD & REGIONAL TV",BFM TV
+#EXTINF:-1 tvg-chno="275" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/60px-Logo_BFM_TV_%282019%29.png" tvg-name="BFM TV" group-title="WORLD & REGIONAL TV",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-chno="275" tvg-name="BOM Cine" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",BOM Cine
+#EXTINF:-1 tvg-chno="276" tvg-name="BOM Cine" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-#EXTINF:-1 tvg-chno="276" tvg-name="Bon Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" tvg-id="BonDiaTV.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Bon Dia
+#EXTINF:-1 tvg-chno="277" tvg-name="Bon Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" tvg-id="BonDiaTV.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Bon Dia
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-chno="277" tvg-name="Botflix TV" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-country="US" group-title="WORLD & REGIONAL TV",Botflix TV
+#EXTINF:-1 tvg-chno="278" tvg-name="Botflix TV" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-country="US" group-title="WORLD & REGIONAL TV",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
-#EXTINF:-1 tvg-chno="278" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/dXwkFei.png" tvg-id="C31Melbourne.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",C31 Melbourne
+#EXTINF:-1 tvg-chno="279" tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/dXwkFei.png" tvg-id="C31Melbourne.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-chno="279" tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/Egymir4.png" tvg-id="Canal4Tenerife.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal 4 Tenerife
+#EXTINF:-1 tvg-chno="280" tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/Egymir4.png" tvg-id="Canal4Tenerife.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal 4 Tenerife
 https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8
-#EXTINF:-1 tvg-chno="280" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-id="Canal6Multimedios.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Canal 6 Multimedios
+#EXTINF:-1 tvg-chno="281" tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-id="Canal6Multimedios.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Canal 6 Multimedios
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-chno="281" tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/xBeywIA.png" tvg-id="CanalExtremadura.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal Extremadura
+#EXTINF:-1 tvg-chno="282" tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/xBeywIA.png" tvg-id="CanalExtremadura.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
-#EXTINF:-1 tvg-chno="282" tvg-name="Canal Once" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-id="CanalOnce.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Canal Once
+#EXTINF:-1 tvg-chno="283" tvg-name="Canal Once" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-id="CanalOnce.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
-#EXTINF:-1 tvg-chno="283" tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal Sur Andalucía
+#EXTINF:-1 tvg-chno="284" tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Canal Sur Andalucía
 https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/500px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Channel 5 Ⓢ
+#EXTINF:-1 tvg-chno="285" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/500px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Channel 5 Ⓢ
 http://193.46.58.239:8080/Channel5/index.m3u8
-#EXTINF:-1 tvg-chno="285" tvg-name="CHCH" tvg-logo="https://i.imgur.com/jYSXaga.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",CHCH
+#EXTINF:-1 tvg-chno="286" tvg-name="CHCH" tvg-logo="https://i.imgur.com/jYSXaga.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",CHCH
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
-#EXTINF:-1 tvg-chno="286" tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" tvg-country="ID" group-title="WORLD & REGIONAL TV",CNBC Indonesia
+#EXTINF:-1 tvg-chno="287" tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" tvg-country="ID" group-title="WORLD & REGIONAL TV",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="287" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-id="COMBrasil.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",COM Brasil
+#EXTINF:-1 tvg-chno="288" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-id="COMBrasil.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-chno="288" tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",CPAC (EN)
+#EXTINF:-1 tvg-chno="289" tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-chno="289" tvg-name="CTV 2" tvg-logo="" tvg-country="CA" group-title="WORLD & REGIONAL TV",CTV 2
+#EXTINF:-1 tvg-chno="290" tvg-name="CTV 2" tvg-logo="" tvg-country="CA" group-title="WORLD & REGIONAL TV",CTV 2
 http://stream.cammonitorplus.net/1731/index.m3u8
-#EXTINF:-1 tvg-chno="290" tvg-name="CTV Toronto" tvg-logo="https://i.imgur.com/qOutOWN.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",CTV Toronto
+#EXTINF:-1 tvg-chno="291" tvg-name="CTV Toronto" tvg-logo="https://i.imgur.com/qOutOWN.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",CTV Toronto
 http://stream.cammonitorplus.net/1712/index.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Cuatro
+#EXTINF:-1 tvg-chno="292" tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-#EXTINF:-1 tvg-chno="292" tvg-name="Di TV" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-id="DiTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Di TV
+#EXTINF:-1 tvg-chno="293" tvg-name="Di TV" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-id="DiTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Di TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-chno="293" tvg-name="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" tvg-id="DubaiOne.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai One
+#EXTINF:-1 tvg-chno="294" tvg-name="Dubai One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" tvg-id="DubaiOne.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-name="Dubai TV" tvg-logo="https://i.imgur.com/wZMkKF7.png" tvg-id="DubaiTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai TV
+#EXTINF:-1 tvg-chno="295" tvg-name="Dubai TV" tvg-logo="https://i.imgur.com/wZMkKF7.png" tvg-id="DubaiTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="295" tvg-name="Dubai Zaman" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png" tvg-id="DubaiZaman.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai Zaman
+#EXTINF:-1 tvg-chno="296" tvg-name="Dubai Zaman" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png" tvg-id="DubaiZaman.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="296" tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-id="ElPaisTV.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",El País
+#EXTINF:-1 tvg-chno="297" tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-id="ElPaisTV.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",El País
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-chno="297" tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" tvg-id="EstrellaTV.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Estrella TV
+#EXTINF:-1 tvg-chno="298" tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" tvg-id="EstrellaTV.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-#EXTINF:-1 tvg-chno="298" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",ETB1
+#EXTINF:-1 tvg-chno="299" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-chno="299" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",ETB2
+#EXTINF:-1 tvg-chno="300" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-chno="300" tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="ExpressenTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Expressen TV
+#EXTINF:-1 tvg-chno="301" tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="ExpressenTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Expressen TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 tvg-chno="301" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",FDF
+#EXTINF:-1 tvg-chno="302" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" tvg-country="JP" group-title="WORLD & REGIONAL TV",FNNプライムオンライン
+#EXTINF:-1 tvg-chno="303" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" tvg-country="JP" group-title="WORLD & REGIONAL TV",FNNプライムオンライン
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-name="GemsTV" tvg-logo="https://i.imgur.com/IR2sTag.png" tvg-id="GemsTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",GemsTV Ⓢ
+#EXTINF:-1 tvg-chno="304" tvg-name="GemsTV" tvg-logo="https://i.imgur.com/IR2sTag.png" tvg-id="GemsTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",GemsTV Ⓢ
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="304" tvg-name="Great! Romance" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png" tvg-id="GreatRomance.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Great! Romance Ⓢ
+#EXTINF:-1 tvg-chno="305" tvg-name="Great! Romance" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png" tvg-id="GreatRomance.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Great! Romance Ⓢ
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="305" tvg-name="ICI Montreal" tvg-logo="https://i.imgur.com/Z1b2TJD.png" tvg-id="CBFTDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",ICI Montreal
+#EXTINF:-1 tvg-chno="306" tvg-name="ICI Montreal" tvg-logo="https://i.imgur.com/Z1b2TJD.png" tvg-id="CBFTDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",ICI Montreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-chno="306" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/500px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",ICI RDI
+#EXTINF:-1 tvg-chno="307" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/500px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-chno="307" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",ISTV
+#EXTINF:-1 tvg-chno="308" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-#EXTINF:-1 tvg-chno="308" tvg-name="Itage TV" tvg-logo="https://i.imgur.com/ojLIfkt.jpeg" tvg-id="ItageTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Itage TV
+#EXTINF:-1 tvg-chno="309" tvg-name="Itage TV" tvg-logo="https://i.imgur.com/ojLIfkt.jpeg" tvg-id="ItageTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="309" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 1
+#EXTINF:-1 tvg-chno="310" tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 1
 http://45.14.84.37/itv1/index.m3u8
-#EXTINF:-1 tvg-chno="310" tvg-name="ITV 2" tvg-logo="https://i.imgur.com/Ji65OXG.png" tvg-id="ITV2.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 2
+#EXTINF:-1 tvg-chno="311" tvg-name="ITV 2" tvg-logo="https://i.imgur.com/Ji65OXG.png" tvg-id="ITV2.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 2
 http://45.14.84.37/itv2/index.m3u8
-#EXTINF:-1 tvg-chno="311" tvg-name="ITV 3" tvg-logo="https://i.imgur.com/vYNyYGx.png" tvg-id="ITV3.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 3
+#EXTINF:-1 tvg-chno="312" tvg-name="ITV 3" tvg-logo="https://i.imgur.com/vYNyYGx.png" tvg-id="ITV3.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 3
 http://45.14.84.37/itv3/index.m3u8
-#EXTINF:-1 tvg-chno="312" tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png" tvg-id="ITV4.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 4
+#EXTINF:-1 tvg-chno="313" tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png" tvg-id="ITV4.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",ITV 4
 http://45.14.84.37/itv4/index.m3u8
-#EXTINF:-1 tvg-chno="313" tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png" tvg-id="JTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",JTV TV
+#EXTINF:-1 tvg-chno="314" tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png" tvg-id="JTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",JTV TV
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-chno="314" tvg-name="K24 TV" tvg-logo="https://i.imgur.com/ce2P9Y4" tvg-id="K24.ke" tvg-country="KE" group-title="WORLD & REGIONAL TV",K24 TV
+#EXTINF:-1 tvg-chno="315" tvg-name="K24 TV" tvg-logo="https://i.imgur.com/ce2P9Y4" tvg-id="K24.ke" tvg-country="KE" group-title="WORLD & REGIONAL TV",K24 TV
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
-#EXTINF:-1 tvg-chno="315" tvg-name="Kanal 10 Sverige" tvg-logo="https://i.imgur.com/vlh699v.png" tvg-id="Kanal10.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Kanal 10 Sverige
+#EXTINF:-1 tvg-chno="316" tvg-name="Kanal 10 Sverige" tvg-logo="https://i.imgur.com/vlh699v.png" tvg-id="Kanal10.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Kanal 10 Sverige
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-chno="316" tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",KBC TV
+#EXTINF:-1 tvg-chno="317" tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",KBC TV
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 1
+#EXTINF:-1 tvg-chno="318" tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-chno="318" tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 2
+#EXTINF:-1 tvg-chno="319" tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-chno="319" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 8 Mediterráneo
+#EXTINF:-1 tvg-chno="320" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La 8 Mediterráneo
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
-#EXTINF:-1 tvg-chno="320" tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La Otra
+#EXTINF:-1 tvg-chno="321" tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-chno="321" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" tvg-country="MX" group-title="WORLD & REGIONAL TV",Las Estrellas
+#EXTINF:-1 tvg-chno="322" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" tvg-country="MX" group-title="WORLD & REGIONAL TV",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-chno="322" tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" tvg-id="M4TV.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",M4TV
+#EXTINF:-1 tvg-chno="323" tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" tvg-id="M4TV.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="323" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1" group-title="WORLD & REGIONAL TV",MBC 1
+#EXTINF:-1 tvg-chno="324" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-name="MBC 1" group-title="WORLD & REGIONAL TV",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1 tvg-chno="324" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-id="MBC4.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC 4
+#EXTINF:-1 tvg-chno="325" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-id="MBC4.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-chno="325" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-id="MBC5.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC 5
+#EXTINF:-1 tvg-chno="326" tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-id="MBC5.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-chno="326" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC Persia
+#EXTINF:-1 tvg-chno="327" tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-chno="327" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="rch_115" tvg-country="JP" group-title="WORLD & REGIONAL TV",MBSニュース
+#EXTINF:-1 tvg-chno="328" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="rch_115" tvg-country="JP" group-title="WORLD & REGIONAL TV",MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" tvg-country="DE" group-title="WORLD & REGIONAL TV",NDR International
+#EXTINF:-1 tvg-chno="329" tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/500px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" tvg-country="DE" group-title="WORLD & REGIONAL TV",NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-chno="329" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" tvg-id="NH.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",NH Nieuws
+#EXTINF:-1 tvg-chno="330" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" tvg-id="NH.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-chno="330" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-country="JP" group-title="WORLD & REGIONAL TV",NHK World Japan (Backup)
+#EXTINF:-1 tvg-chno="331" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-country="JP" group-title="WORLD & REGIONAL TV",NHK World Japan (Backup)
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-chno="331" tvg-name="Nine" tvg-logo="https://i.imgur.com/SMXwfr5.png" tvg-id="NineNetwork.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",Nine
+#EXTINF:-1 tvg-chno="332" tvg-name="Nine" tvg-logo="https://i.imgur.com/SMXwfr5.png" tvg-id="NineNetwork.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",Nine
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
-#EXTINF:-1 tvg-chno="332" tvg-name="Noor Dubai" tvg-logo="https://i.imgur.com/DLe7ZuM.png" tvg-id="NoorDubai.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Noor Dubai
+#EXTINF:-1 tvg-chno="333" tvg-name="Noor Dubai" tvg-logo="https://i.imgur.com/DLe7ZuM.png" tvg-id="NoorDubai.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="333" tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",Noovo
+#EXTINF:-1 tvg-chno="334" tvg-name="Noovo" tvg-logo="https://i.imgur.com/BL9ziSJ.png" tvg-country="CA" group-title="WORLD & REGIONAL TV",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-chno="334" tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" tvg-id="OBSGyeonginTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",OBS TV
+#EXTINF:-1 tvg-chno="335" tvg-name="OBS TV" tvg-logo="https://i.imgur.com/oWB3ApR.png" tvg-id="OBSGyeonginTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",OBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
-#EXTINF:-1 tvg-chno="335" tvg-name="Omroep Gelderland" tvg-logo="https://i.imgur.com/TPlyvUQ.png" tvg-id="OmroepGelderlandTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omroep Gelderland
+#EXTINF:-1 tvg-chno="336" tvg-name="Omroep Gelderland" tvg-logo="https://i.imgur.com/TPlyvUQ.png" tvg-id="OmroepGelderlandTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omroep Gelderland
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:-1 tvg-chno="336" tvg-name="Omroep West" tvg-logo="https://i.imgur.com/aax1HPH.png" tvg-id="OmroepWestTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omroep West
+#EXTINF:-1 tvg-chno="337" tvg-name="Omroep West" tvg-logo="https://i.imgur.com/aax1HPH.png" tvg-id="OmroepWestTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omroep West
 https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
-#EXTINF:-1 tvg-chno="337" tvg-name="Omrop Fryslân" tvg-logo="https://i.imgur.com/0VKJLAK.png" tvg-id="OmropFryslanTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omrop Fryslân
+#EXTINF:-1 tvg-chno="338" tvg-name="Omrop Fryslân" tvg-logo="https://i.imgur.com/0VKJLAK.png" tvg-id="OmropFryslanTV.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
-#EXTINF:-1 tvg-chno="338" tvg-name="Öppna Kanalen Skövde" tvg-logo="https://i.imgur.com/1LkYbaQ.png" tvg-id="OppnaKanalenSkovde.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Öppna Kanalen Skövde
+#EXTINF:-1 tvg-chno="339" tvg-name="Öppna Kanalen Skövde" tvg-logo="https://i.imgur.com/1LkYbaQ.png" tvg-id="OppnaKanalenSkovde.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Öppna Kanalen Skövde
 https://edg01-prd-de-ixn.solidtango.com/edge/_c6697zkv_/c6697zkv/manifest.m3u8
-#EXTINF:-1 tvg-chno="339" tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Qatar Television
+#EXTINF:-1 tvg-chno="340" tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Qatar Television
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
-#EXTINF:-1 tvg-chno="340" tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" tvg-id="QatarTelevision2.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Qatar Television 2
+#EXTINF:-1 tvg-chno="341" tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" tvg-id="QatarTelevision2.qa" tvg-country="QA" group-title="WORLD & REGIONAL TV",Qatar Television 2
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
-#EXTINF:-1 tvg-chno="341" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" tvg-id="QuieroTV.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Quiero TV
+#EXTINF:-1 tvg-chno="342" tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" tvg-id="QuieroTV.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",Quiero TV
 https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" tvg-id="QVC.jp" tvg-country="JP" group-title="WORLD & REGIONAL TV",QVC
+#EXTINF:-1 tvg-chno="343" tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" tvg-id="QVC.jp" tvg-country="JP" group-title="WORLD & REGIONAL TV",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-chno="343" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" tvg-id="RedeBrasil.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",Rede Brasil
+#EXTINF:-1 tvg-chno="344" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" tvg-id="RedeBrasil.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-name="RNE para todos" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",RNE para todos
+#EXTINF:-1 tvg-chno="345" tvg-name="RNE para todos" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",RNE para todos
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
-#EXTINF:-1 tvg-chno="345" tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-id="RotanaClip.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Ciip
+#EXTINF:-1 tvg-chno="346" tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-id="RotanaClip.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Ciip
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-id="RotanaClassic.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Classic
+#EXTINF:-1 tvg-chno="347" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-id="RotanaClassic.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Classic
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-id="RotanaKhalijia.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Khalijia
+#EXTINF:-1 tvg-chno="348" tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-id="RotanaKhalijia.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Rotana Khalijia
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-chno="348" tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",RTÉ One
+#EXTINF:-1 tvg-chno="349" tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",RTÉ One
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
-#EXTINF:-1 tvg-chno="349" tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",RTÉ2
+#EXTINF:-1 tvg-chno="350" tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",RTÉ2
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
-#EXTINF:-1 tvg-chno="350" tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-country="HK" group-title="WORLD & REGIONAL TV",RTHK TV 31
+#EXTINF:-1 tvg-chno="351" tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-country="HK" group-title="WORLD & REGIONAL TV",RTHK TV 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-chno="351" tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" tvg-country="HK" group-title="WORLD & REGIONAL TV",RTHK TV 32
+#EXTINF:-1 tvg-chno="352" tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" tvg-country="HK" group-title="WORLD & REGIONAL TV",RTHK TV 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-chno="352" tvg-name="RTP Açores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/500px-RTP_A%C3%A7ores_%282016%29.svg.png" tvg-id="RTPAcores.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Açores
+#EXTINF:-1 tvg-chno="353" tvg-name="RTP Açores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/500px-RTP_A%C3%A7ores_%282016%29.svg.png" tvg-id="RTPAcores.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="353" tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-id="RTPAfrica.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP África
+#EXTINF:-1 tvg-chno="354" tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-id="RTPAfrica.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="354" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" tvg-id="RTPMemoria.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Memória
+#EXTINF:-1 tvg-chno="355" tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" tvg-id="RTPMemoria.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="355" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Mundo
+#EXTINF:-1 tvg-chno="356" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="356" tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP notícias
+#EXTINF:-1 tvg-chno="357" tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="357" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP1
+#EXTINF:-1 tvg-chno="358" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="358" tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP3
+#EXTINF:-1 tvg-chno="359" tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-chno="359" tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/GaGqM4z.png" tvg-id="RTVDrenthe.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Drenthe
+#EXTINF:-1 tvg-chno="360" tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/GaGqM4z.png" tvg-id="RTVDrenthe.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-chno="360" tvg-name="RTV Noord" tvg-logo="https://i.imgur.com/pO5Mexa.png" tvg-id="RTVNoord.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Noord
+#EXTINF:-1 tvg-chno="361" tvg-name="RTV Noord" tvg-logo="https://i.imgur.com/pO5Mexa.png" tvg-id="RTVNoord.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="361" tvg-name="RTV Oost" tvg-logo="https://i.imgur.com/8ropV29.png" tvg-id="RTVOost.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Oost
+#EXTINF:-1 tvg-chno="362" tvg-name="RTV Oost" tvg-logo="https://i.imgur.com/8ropV29.png" tvg-id="RTVOost.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:-1 tvg-chno="362" tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/TNhUVEm.png" tvg-id="RTVRijnmond.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Rijnmond
+#EXTINF:-1 tvg-chno="363" tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/TNhUVEm.png" tvg-id="RTVRijnmond.nl" tvg-country="NL" group-title="WORLD & REGIONAL TV",RTV Rijnmond
 https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
-#EXTINF:-1 tvg-chno="363" tvg-name="Sama Dubai" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-id="SamaDubai.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Sama Dubai
+#EXTINF:-1 tvg-chno="364" tvg-name="Sama Dubai" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-id="SamaDubai.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="364" tvg-name="Savoir Média" tvg-logo="https://i.imgur.com/pa4wOVY.png" tvg-id="CFTUDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",Savoir Média
+#EXTINF:-1 tvg-chno="365" tvg-name="Savoir Média" tvg-logo="https://i.imgur.com/pa4wOVY.png" tvg-id="CFTUDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-chno="365" tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",SBC Saudi Arabia
+#EXTINF:-1 tvg-chno="366" tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",SBC Saudi Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 tvg-chno="366" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",SBS TV
+#EXTINF:-1 tvg-chno="367" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",SBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-#EXTINF:-1 tvg-chno="367" tvg-name="Seven" tvg-logo="https://i.imgur.com/6zwKJaa.png" tvg-id="SevenNetwork.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",Seven
+#EXTINF:-1 tvg-chno="368" tvg-name="Seven" tvg-logo="https://i.imgur.com/6zwKJaa.png" tvg-id="SevenNetwork.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
-#EXTINF:-1 tvg-chno="368" tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Sharjah TV
+#EXTINF:-1 tvg-chno="369" tvg-name="Sharjah TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png" tvg-id="SharjahTV.ae" tvg-country="AE" group-title="WORLD & REGIONAL TV",Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="369" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-id="SIC.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",SIC
+#EXTINF:-1 tvg-chno="370" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-id="SIC.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",SIC
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-chno="370" tvg-name="Stryk TV" tvg-logo="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png" tvg-id="StrykTV.us" tvg-country="US" group-title="WORLD & REGIONAL TV",Stryk TV
+#EXTINF:-1 tvg-chno="371" tvg-name="Stryk TV" tvg-logo="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png" tvg-id="StrykTV.us" tvg-country="US" group-title="WORLD & REGIONAL TV",Stryk TV
 https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-#EXTINF:-1 tvg-chno="371" tvg-name="Sundskanalen" tvg-logo="https://i.imgur.com/8uT0p3q.jpg" tvg-id="Sundskanalen.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Sundskanalen
+#EXTINF:-1 tvg-chno="372" tvg-name="Sundskanalen" tvg-logo="https://i.imgur.com/8uT0p3q.jpg" tvg-id="Sundskanalen.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Sundskanalen
 https://stream.sundskanalen.se/live/view/index.m3u8
-#EXTINF:-1 tvg-chno="372" tvg-name="Superscreen TV" tvg-logo="https://i.imgur.com/DuhRy48.png" tvg-id="SuperscreenTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Superscreen TV
+#EXTINF:-1 tvg-chno="373" tvg-name="Superscreen TV" tvg-logo="https://i.imgur.com/DuhRy48.png" tvg-id="SuperscreenTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Superscreen TV
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
-#EXTINF:-1 tvg-chno="373" tvg-name="Suryoyo Sat" tvg-logo="https://i.imgur.com/naCNjaB.png" tvg-id="SuryoyoSat.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Suryoyo Sat
+#EXTINF:-1 tvg-chno="374" tvg-name="Suryoyo Sat" tvg-logo="https://i.imgur.com/naCNjaB.png" tvg-id="SuryoyoSat.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Suryoyo Sat
 https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8
-#EXTINF:-1 tvg-chno="374" tvg-name="Talking Pictures TV" tvg-logo="https://i.imgur.com/S1zoIp7.png" tvg-id="TalkingPicturesTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Talking Pictures TV Ⓢ
+#EXTINF:-1 tvg-chno="375" tvg-name="Talking Pictures TV" tvg-logo="https://i.imgur.com/S1zoIp7.png" tvg-id="TalkingPicturesTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Talking Pictures TV Ⓢ
 http://92.114.85.72:8000/play/a0la
-#EXTINF:-1 tvg-chno="375" tvg-name="TBN UK" tvg-logo="https://i.imgur.com/9vzEz1b.png" tvg-id="TBNUK.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",TBN UK Ⓢ
+#EXTINF:-1 tvg-chno="376" tvg-name="TBN UK" tvg-logo="https://i.imgur.com/9vzEz1b.png" tvg-id="TBNUK.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",TBN UK Ⓢ
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
-#EXTINF:-1 tvg-chno="376" tvg-name="tdp" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",tdp
+#EXTINF:-1 tvg-chno="377" tvg-name="tdp" tvg-logo="https://i.imgur.com/HliegRJ.png" tvg-id="tdp.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",tdp
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-chno="377" tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" tvg-id="Tele10Nayarit.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",TELE 10 Nayarit
+#EXTINF:-1 tvg-chno="378" tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" tvg-id="Tele10Nayarit.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",TELE 10 Nayarit
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-chno="378" tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" tvg-id="CIVMDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",Télé Québec
+#EXTINF:-1 tvg-chno="379" tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" tvg-id="CIVMDT.ca" tvg-country="CA" group-title="WORLD & REGIONAL TV",Télé Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-chno="379" tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" tvg-id="Telecinco.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Telecinco
+#EXTINF:-1 tvg-chno="380" tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" tvg-id="Telecinco.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-#EXTINF:-1 tvg-chno="380" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" tvg-id="TeleFormula.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",TeleFormula
+#EXTINF:-1 tvg-chno="381" tvg-name="TeleFormula" tvg-logo="https://i.imgur.com/jR6taXt.png" tvg-id="TeleFormula.mx" tvg-country="MX" group-title="WORLD & REGIONAL TV",TeleFormula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-chno="381" tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Telemadrid
+#EXTINF:-1 tvg-chno="382" tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-chno="382" tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" tvg-country="CH" group-title="WORLD & REGIONAL TV",Teleticino
+#EXTINF:-1 tvg-chno="383" tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" tvg-country="CH" group-title="WORLD & REGIONAL TV",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 tvg-chno="383" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/960px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",TG4
+#EXTINF:-1 tvg-chno="384" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/960px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
-#EXTINF:-1 tvg-chno="384" tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Thikrayat
+#EXTINF:-1 tvg-chno="385" tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" tvg-country="SA" group-title="WORLD & REGIONAL TV",Thikrayat
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
-#EXTINF:-1 tvg-chno="385" tvg-name="Together TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/500px-Together_TV_logo.svg.png" tvg-id="TogetherTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Together TV Ⓢ
+#EXTINF:-1 tvg-chno="386" tvg-name="Together TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Together_TV_logo.svg/500px-Together_TV_logo.svg.png" tvg-id="TogetherTV.uk" tvg-country="GB" group-title="WORLD & REGIONAL TV",Together TV Ⓢ
 http://92.114.85.72:8000/play/a0j8
-#EXTINF:-1 tvg-chno="386" tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-country="JP" group-title="WORLD & REGIONAL TV",TOKYO MX チャンネル
+#EXTINF:-1 tvg-chno="387" tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-country="JP" group-title="WORLD & REGIONAL TV",TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-chno="387" tvg-name="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-id="Toronto360.tv" tvg-country="CA" group-title="WORLD & REGIONAL TV",Toronto 360 TV
+#EXTINF:-1 tvg-chno="388" tvg-name="Toronto 360 TV" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-id="Toronto360.tv" tvg-country="CA" group-title="WORLD & REGIONAL TV",Toronto 360 TV
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-chno="388" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",TV Câmara
+#EXTINF:-1 tvg-chno="389" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/UpV2PRk.png" tvg-id="TVCamara.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-chno="389" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",TV Cultura
+#EXTINF:-1 tvg-chno="390" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" tvg-country="BR" group-title="WORLD & REGIONAL TV",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-chno="390" tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" tvg-country="FR" group-title="WORLD & REGIONAL TV",TV5 Monde Europe
+#EXTINF:-1 tvg-chno="391" tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" tvg-country="FR" group-title="WORLD & REGIONAL TV",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 tvg-chno="391" tvg-name="TV5 Monde FBS" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-country="FR" group-title="WORLD & REGIONAL TV",TV5 Monde FBS
+#EXTINF:-1 tvg-chno="392" tvg-name="TV5 Monde FBS" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-country="FR" group-title="WORLD & REGIONAL TV",TV5 Monde FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-chno="392" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-name="TV5 Monde Info" group-title="WORLD & REGIONAL TV",TV5 Monde Info
+#EXTINF:-1 tvg-chno="393" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-name="TV5 Monde Info" group-title="WORLD & REGIONAL TV",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-chno="393" tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",TVE Internacional Europe-Asia
+#EXTINF:-1 tvg-chno="394" tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" tvg-country="ES" group-title="WORLD & REGIONAL TV",TVE Internacional Europe-Asia
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-chno="394" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" tvg-id="TVI.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",TVI
+#EXTINF:-1 tvg-chno="395" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" tvg-id="TVI.pt" tvg-country="PT" group-title="WORLD & REGIONAL TV",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1 tvg-chno="395" tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",TVSN
+#EXTINF:-1 tvg-chno="396" tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" tvg-country="AU" group-title="WORLD & REGIONAL TV",TVSN
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-chno="396" tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",UBC TV
+#EXTINF:-1 tvg-chno="397" tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" tvg-country="KR" group-title="WORLD & REGIONAL TV",UBC TV
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 tvg-chno="397" tvg-name="Västmanlands TV" tvg-logo="https://i.imgur.com/EXBaQ88.jpg" tvg-id="VastmanlandsTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Västmanlands TV
+#EXTINF:-1 tvg-chno="398" tvg-name="Västmanlands TV" tvg-logo="https://i.imgur.com/EXBaQ88.jpg" tvg-id="VastmanlandsTV.se" tvg-country="SE" group-title="WORLD & REGIONAL TV",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
-#EXTINF:-1 tvg-chno="398" tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/960px-Virgin_Media_One_logo_2018.svg.png" tvg-id="VirginMediaOne.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 1
+#EXTINF:-1 tvg-chno="399" tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/960px-Virgin_Media_One_logo_2018.svg.png" tvg-id="VirginMediaOne.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 1
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
-#EXTINF:-1 tvg-chno="399" tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/960px-Virgin_Media_Two_logo_2018.svg.png" tvg-id="VirginMediaTwo.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 2
+#EXTINF:-1 tvg-chno="400" tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/960px-Virgin_Media_Two_logo_2018.svg.png" tvg-id="VirginMediaTwo.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 2
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
-#EXTINF:-1 tvg-chno="400" tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/960px-Virgin_Media_Three_logo_2018.svg.png" tvg-id="VirginMediaThree.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 3
+#EXTINF:-1 tvg-chno="401" tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/960px-Virgin_Media_Three_logo_2018.svg.png" tvg-id="VirginMediaThree.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 3
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
-#EXTINF:-1 tvg-chno="401" tvg-name="Virgin Media 4" tvg-logo="https://i.imgur.com/x4VsyIm.png" tvg-id="VirginMediaFour.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 4
+#EXTINF:-1 tvg-chno="402" tvg-name="Virgin Media 4" tvg-logo="https://i.imgur.com/x4VsyIm.png" tvg-id="VirginMediaFour.ie" tvg-country="IE" group-title="WORLD & REGIONAL TV",Virgin Media 4
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
-#EXTINF:-1 tvg-chno="402" tvg-name="Waffi TV" tvg-logo="https://i.imgur.com/ejlCb5g.png" tvg-id="WaffiTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Waffi TV
+#EXTINF:-1 tvg-chno="403" tvg-name="Waffi TV" tvg-logo="https://i.imgur.com/ejlCb5g.png" tvg-id="WaffiTV.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Waffi TV
 https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="403" tvg-name="Wazobia Max TV Nigeria" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" tvg-id="WazobiaMaxTVNigeria.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Wazobia Max TV Nigeria
+#EXTINF:-1 tvg-chno="404" tvg-name="Wazobia Max TV Nigeria" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" tvg-id="WazobiaMaxTVNigeria.ng" tvg-country="NG" group-title="WORLD & REGIONAL TV",Wazobia Max TV Nigeria
 https://wazobia.live:8333/channel/wmax.m3u8
-#EXTINF:-1 tvg-chno="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/500px-Welt_TV_Logo_2016.svg.png" tvg-name="Welt" group-title="WORLD & REGIONAL TV",Welt
+#EXTINF:-1 tvg-chno="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/500px-Welt_TV_Logo_2016.svg.png" tvg-name="Welt" group-title="WORLD & REGIONAL TV",Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-#EXTINF:-1 tvg-chno="405" tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-country="JP" group-title="WORLD & REGIONAL TV",ウェザーニュースLiVE
+#EXTINF:-1 tvg-chno="406" tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-country="JP" group-title="WORLD & REGIONAL TV",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-#EXTINF:-1 tvg-chno="406" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" tvg-country="JP" group-title="WORLD & REGIONAL TV",日テレNEWS
+#EXTINF:-1 tvg-chno="407" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" tvg-country="JP" group-title="WORLD & REGIONAL TV",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
