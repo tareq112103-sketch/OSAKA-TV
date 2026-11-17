@@ -25,8 +25,10 @@ Current desktop features:
 - Supports favourites, stop/play and full-screen mode (F11; Escape exits full screen).
 - Supports common stream formats handled by VLC, including HLS where the source is compatible.
 
-### Download
-After the Windows GitHub Actions workflow completes, open the **Build OSAKA TV for Windows 11** run and download the **OSAKA-TV-Windows-11-x64** artifact. Extract the ZIP and run `OSAKA-TV.exe`.
+### Download and install
+After the Windows GitHub Actions workflow completes, download **OSAKA-TV-Setup-1.0.0.exe** from the **OSAKA-TV-Windows-11-x64** artifact. Run the installer and follow the setup wizard. It installs OSAKA TV, creates a Start Menu shortcut, and includes an uninstaller. A desktop shortcut is available as an optional installer task.
+
+The same artifact also contains **OSAKA-TV-Windows-Portable-x64.zip** for users who prefer not to install the app. Extract it and run `OSAKA-TV.exe`.
 
 ### Build locally
 Install the .NET 8 SDK and run:
@@ -50,9 +52,7 @@ APK: `Android/build/outputs/apk/debug/app-debug.apk`.
 - **Windows 11:** runs only when files under `windows/` change (or when manually started). Download **OSAKA-TV-Windows-11-x64** from the Windows workflow run's Artifacts section.
 
 ## Updates
-This repository is the source of truth for OSAKA TV. Android sideloaded APK updates cannot install silently: users must approve installation. Release signing must use the same private keystore for every upgrade. Never commit keystores or passwords.
-
-The Windows build is currently distributed as a GitHub Actions ZIP artifact; it is not yet an auto-updating signed installer. A later release can add an installer and in-app update checks.
+The Windows version is distributed as an Inno Setup installer and a portable ZIP through GitHub Actions. The installer is currently unsigned, so Windows SmartScreen may show an unknown-publisher warning. This is expected until a code-signing certificate is configured. Automatic in-app updates are not included yet.
 
 ## Playlist and content
 `playlist.m3u` is shared by both app versions. Channel availability, geographic restrictions and stream URLs can change; some channels may not be reachable in every country. No paid or subscription-only channels are intentionally included. Use only streams you are authorized to access.
