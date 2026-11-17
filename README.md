@@ -56,3 +56,11 @@ The Windows build is currently distributed as a GitHub Actions ZIP artifact; it 
 
 ## Playlist and content
 `playlist.m3u` is shared by both app versions. Channel availability, geographic restrictions and stream URLs can change; some channels may not be reachable in every country. No paid or subscription-only channels are intentionally included. Use only streams you are authorized to access.
+
+## LG webOS
+The LG Smart TV version is a separate web app under `webos/`. It loads the shared `playlist.m3u` from GitHub, provides remote-friendly channel browsing, category filtering, search, favourites and native HTML5 video playback.
+
+### Build and download
+The **Build OSAKA TV for LG webOS** GitHub Actions workflow packages an installable `.ipk` file. Open the workflow run and download the `OSAKA-TV-webOS-IPK` artifact. The package is a developer/test build; installation uses LG Developer Mode and webOS CLI. LG Content Store distribution requires LG's separate review and approval.
+
+For build and device setup instructions, see [webos/README.md](webos/README.md).
