@@ -43,7 +43,7 @@ Requirements: JDK 17 and Android SDK 35.
 gradle wrapper --gradle-version 8.9
 ./gradlew assembleDebug
 ```
-APK: `Android/build/outputs/apk/debug/Android-debug.apk`.
+APK: `Android/build/outputs/apk/debug/app-debug.apk`.
 
 ## GitHub Actions
 - **Android APK:** runs only when Android source/build files change (or when manually started). Open the [Android APK workflow](.github/workflows/android.yml) and download **OSAKA-TV-Android-APK** from its latest successful run.
