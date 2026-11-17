@@ -20,6 +20,8 @@ jobs:
           node-version: "20"
       - name: Install webOS CLI
         run: npm install --global @webos-tools/cli
+      - name: Select webOS TV CLI profile
+        run: ares-config --profile tv
       - name: Package webOS application
         run: |
           mkdir -p dist
