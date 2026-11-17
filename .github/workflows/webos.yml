@@ -1,0 +1,33 @@
+name: Build OSAKA TV for LG webOS
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "webos/**"
+      - ".github/workflows/webos.yml"
+      - "playlist.m3u"
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install webOS CLI
+        run: npm install --global @webos-tools/cli
+      - name: Package webOS application
+        run: |
+          mkdir -p dist
+          ares-package webos --no-minify --outdir dist
+      - name: Upload IPK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: OSAKA-TV-webOS-IPK
+          path: dist/*.ipk
+          if-no-files-found: error
+          retention-days: 30
