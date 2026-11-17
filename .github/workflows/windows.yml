@@ -38,6 +38,7 @@ jobs:
       - name: Build Windows installer
         shell: pwsh
         run: |
+          New-Item -ItemType Directory -Force dist | Out-Null
           $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
           if (!(Test-Path $iscc)) { throw "Inno Setup compiler was not found." }
           & $iscc "windows/installer/OSAKA-TV.iss" "/DAppVersion=1.0.0" "/DSourceDir=$((Resolve-Path 'publish/windows-x64').Path)"
