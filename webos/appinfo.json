@@ -1,0 +1,14 @@
+{
+  "id": "com.osaka.tv",
+  "version": "1.0.0",
+  "vendor": "OSAKA TV",
+  "type": "web",
+  "main": "index.html",
+  "title": "OSAKA TV",
+  "icon": "icon.svg",
+  "largeIcon": "icon.svg",
+  "resolution": "1920x1080",
+  "requiredMemory": 64,
+  "transparent": false,
+  "disableBackHistoryAPI": true
+}
