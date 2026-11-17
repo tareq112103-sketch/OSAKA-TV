@@ -34,7 +34,7 @@ The same artifact also contains **OSAKA-TV-Windows-Portable-x64.zip** for users 
 Install the .NET 8 SDK and run:
 ```powershell
 dotnet restore windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj
-dotnet publish windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o publish/windows-x64
+dotnet publish windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=false -o publish/windows-x64
 ```
 
 The first Windows build is an initial desktop release. Favourites are currently kept in memory for the current session; persistent settings, EPG and richer TV-style browsing can be added in subsequent updates.
