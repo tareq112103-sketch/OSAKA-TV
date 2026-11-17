@@ -10,7 +10,7 @@
 #define AppExeName "OSAKA-TV.exe"
 
 [Setup]
-AppId={{A74D6A6B-49B5-4B3A-9C6D-OSAKATV0001}
+AppId={{A74D6A6B-49B5-4B3A-9C6D-0A5A7A000001}
 AppName={#AppName}
 AppVersion={#AppVersion}
 AppPublisher={#AppPublisher}
@@ -19,7 +19,6 @@ DefaultGroupName=OSAKA TV
 DisableProgramGroupPage=yes
 OutputDir=..\..\..\dist
 OutputBaseFilename=OSAKA-TV-Setup-{#AppVersion}
-SetupIconFile=
 ArchitecturesAllowed=x64
 ArchitecturesInstallIn64BitMode=x64
 PrivilegesRequired=admin
