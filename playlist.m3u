@@ -123,6 +123,10 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 # --- KASHMIRI ---
 #EXTINF:-1 tvg-chno="057" tvg-id="DDKashir.in@SD" tvg-name="DD Kashir" tvg-logo="" tvg-country="IN" group-title="KASHMIRI",DD Kashir
 https://cdn.pishow.tv/ott/live/16/master.m3u8
+#EXTINF:-1 tvg-id="JK24x7News.in@SD" tvg-name="JK 24x7 News" tvg-logo="" tvg-country="IN" group-title="KASHMIRI",JK 24x7 News
+https://livestream.jktvonline.com/hls/jk.m3u8
+#EXTINF:-1 tvg-id="GulistanNews.in@SD" tvg-name="Gulistan News" tvg-logo="" tvg-country="IN" group-title="KASHMIRI",Gulistan News
+https://livestream.jktvonline.com/hls/gul.m3u8
 # --- EDUCATION & KNOWLEDGE ---
 #EXTINF:-1 tvg-chno="058" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" tvg-country="SA" group-title="EDUCATION & KNOWLEDGE",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
