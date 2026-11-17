@@ -6,6 +6,7 @@ on:
     paths:
       - 'windows/**'
       - '.github/workflows/windows.yml'
+      - 'README.md'
   workflow_dispatch:
 
 permissions:
@@ -13,26 +14,45 @@ permissions:
 
 jobs:
   windows-x64:
-    name: Build Windows 11 x64 app
+    name: Build Windows 11 installer
     runs-on: windows-latest
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+
       - name: Set up .NET 8
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
+
       - name: Restore dependencies
         run: dotnet restore windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj
+
       - name: Publish self-contained Windows app
-        run: dotnet publish windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o publish/windows-x64
-      - name: Package Windows app
+        run: dotnet publish windows/OSAKA-TV.Windows/OSAKA-TV.Windows.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=false -o publish/windows-x64
+
+      - name: Install Inno Setup
         shell: pwsh
-        run: Compress-Archive -Path publish/windows-x64/* -DestinationPath OSAKA-TV-Windows-11-x64.zip
-      - name: Upload Windows package
+        run: choco install innosetup --yes --no-progress
+
+      - name: Build Windows installer
+        shell: pwsh
+        run: |
+          $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          if (!(Test-Path $iscc)) { throw "Inno Setup compiler was not found." }
+          & $iscc "windows/installer/OSAKA-TV.iss" "/DAppVersion=1.0.0" "/DSourceDir=$((Resolve-Path 'publish/windows-x64').Path)"
+          if ($LASTEXITCODE -ne 0) { throw "Inno Setup failed with exit code $LASTEXITCODE" }
+
+      - name: Package portable version
+        shell: pwsh
+        run: Compress-Archive -Path publish/windows-x64/* -DestinationPath OSAKA-TV-Windows-Portable-x64.zip
+
+      - name: Upload Windows installer and portable package
         uses: actions/upload-artifact@v4
         with:
           name: OSAKA-TV-Windows-11-x64
-          path: OSAKA-TV-Windows-11-x64.zip
+          path: |
+            dist/OSAKA-TV-Setup-1.0.0.exe
+            OSAKA-TV-Windows-Portable-x64.zip
           if-no-files-found: error
           retention-days: 30
